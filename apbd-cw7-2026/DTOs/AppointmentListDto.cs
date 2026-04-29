@@ -1,4 +1,8 @@
-﻿namespace apbd_cw7_2026.DTOs;
+﻿
+
+using System;
+
+namespace apbd_cw7_2026.DTOs;
 
 public class AppointmentListDto
 {
